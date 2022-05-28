@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mali&duration=2500&color=FFFFFF&multiline=true&height=165&lines=%E2%88%82%E1%B5%AA%E2%88%82%E1%B5%A1%F0%9D%9C%93+%2B+m%C2%B2%F0%9D%9C%93+%3D+0;Assume+%E2%88%82%E1%B5%AA%E2%88%82%E1%B5%A1+%3D+(%CE%B3%E1%B5%A1%E2%88%82%E1%B5%AA)%C2%B2;(%CE%B3%E1%B5%A1%E2%88%82%E1%B5%AA)%C2%B2%F0%9D%9C%93+%2B+m%C2%B2%F0%9D%9C%93+%3D+0;If+%F0%9D%9C%93+%E2%88%88+spec(%E2%88%82%E1%B5%AA%E2%88%82%E1%B5%A1)%2C;i%CE%B3%E1%B5%A1%E2%88%82%E1%B5%AA%F0%9D%9C%93+-+m%F0%9D%9C%93+%3D+0;where%2C+%CE%B3%E1%B5%A1%CE%B3%E1%B5%9D+%2B+%CE%B3%E1%B5%9D%CE%B3%E1%B5%A1+%3D+2%CE%B7%E1%B5%A1%E1%B5%9D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mali&size=22&duration=2500&color=FFFFFF&multiline=true&height=175&lines=%E2%88%82%E1%B5%AA%E2%88%82%E1%B5%A1%F0%9D%9C%93+%2B+m%C2%B2%F0%9D%9C%93+%3D+0;Assume+%E2%88%82%E1%B5%AA%E2%88%82%E1%B5%A1+%3D+(%CE%B3%E1%B5%A1%E2%88%82%E1%B5%AA)%C2%B2;(%CE%B3%E1%B5%A1%E2%88%82%E1%B5%AA)%C2%B2%F0%9D%9C%93+%2B+m%C2%B2%F0%9D%9C%93+%3D+0;If+%F0%9D%9C%93+%E2%88%88+spec(%E2%88%82%E1%B5%AA%E2%88%82%E1%B5%A1)%2C;i%CE%B3%E1%B5%A1%E2%88%82%E1%B5%AA%F0%9D%9C%93+-+m%F0%9D%9C%93+%3D+0;where%2C+%CE%B3%E1%B5%A1%CE%B3%E1%B5%9D+%2B+%CE%B3%E1%B5%9D%CE%B3%E1%B5%A1+%3D+2%CE%B7%E1%B5%A1%E1%B5%9D)](https://git.io/typing-svg)
 
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Booodaness&theme=github_dark)
