@@ -1,9 +1,11 @@
 ![Header](./github-header-image.png)
 
 ## Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Booodaness&hide=prs,issues&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Booodaness&theme=github_dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Booodaness&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Booodaness&theme=github_dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Booodaness&layout=compact&theme=github_dark&title_color=045dc0&text_color=8a959e&border_color=272a30)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=latex,md,py,ruby,html,css,bootstrap,mysql)](https://skillicons.dev)
