@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mali&duration=2500&color=F7F7F7&vCenter=true&multiline=true&height=170&lines=%E2%88%82%E1%B5%AA%E2%88%82%E1%B5%A1%F0%9D%9C%93+%2B+m%C2%B2%F0%9D%9C%93+%3D+0;Let+%E2%88%82%E1%B5%AA%E2%88%82%E1%B5%A1+%3D+(%CE%B3%E1%B5%A1%E2%88%82%E1%B5%AA)%C2%B2+;%E2%87%92+%CE%B3%E1%B5%A1%CE%B3%E1%B5%9D+%2B+%CE%B3%E1%B5%9D%CE%B3%E1%B5%A1+%3D+2%CE%B7%E1%B5%A1%E1%B5%9D;(%CE%B3%E1%B5%A1%E2%88%82%E1%B5%AA)%C2%B2%F0%9D%9C%93+%2B+m%C2%B2%F0%9D%9C%93+%3D+0;%E2%88%B5+%F0%9D%9C%93+%E2%88%88+spec(%E2%88%82%E1%B5%AA%E2%88%82%E1%B5%A1)%2C;i%CE%B3%E1%B5%A1%E2%88%82%E1%B5%AA%F0%9D%9C%93+-+m%F0%9D%9C%93+%3D+0)](https://git.io/typing-svg)
 
 ## Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Booodaness&hide=prs,issues&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Booodaness&hide=prs,issues&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Booodaness&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -23,11 +23,11 @@
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://pages.github.com/)
 [![RevealJS](https://img.shields.io/badge/reveal.js-F2E142?style=for-the-badge&logo=reveal.js&logoColor=000)](https://revealjs.com/)
 
-![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white)
 [![Atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)](https://atom.io/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 [![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
 
+![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white)
 [![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white)](https://www.libreoffice.org/discover/libreoffice/)
 [![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/)
 [![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)](https://krita.org/en/)
