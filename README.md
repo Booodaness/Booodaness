@@ -15,8 +15,8 @@
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Liquid](https://img.shields.io/badge/liquid-8DB543?style=for-the-badge&logo=Shopify&logoColor=white)](https://shopify.github.io/liquid/)
 
-[![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![SymPy](https://img.shields.io/badge/SymPy-3B5526?style=for-the-badge&logo=SymPy&logoColor=white)](https://www.sympy.org/en/index.html)
+[![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)](https://jupyter.org/)
 [![Jekyll](https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white)](https://jekyllrb.com/)
