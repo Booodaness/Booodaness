@@ -3,11 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mali&size=22&duration=2500&color=F7F7F7&multiline=true&height=175&lines=%E2%88%82%E1%B5%AA%E2%88%82%E1%B5%A1%CF%88+%2B+m%C2%B2%CF%88+%3D+0;Let+%E2%88%82%E1%B5%AA%E2%88%82%E1%B5%A1+%3D+(%CE%B3%E1%B5%A1%E2%88%82%E1%B5%AA)%C2%B2;(%CE%B3%E1%B5%A1%E2%88%82%E1%B5%AA)%C2%B2%CF%88+%2B+m%C2%B2%CF%88+%3D+0;%E2%88%B5+%CF%88+%E2%88%88+spec(%E2%88%82%E1%B5%AA%E2%88%82%E1%B5%A1)%2C;i%CE%B3%E1%B5%A1%E2%88%82%E1%B5%AA%CF%88+%2B+m%CF%88+%3D+0;Where%2C+%CE%B3%E1%B5%A1%CE%B3%E1%B5%9D+%2B+%CE%B3%E1%B5%9D%CE%B3%E1%B5%A1+%3D+2%CE%B7%E1%B5%A1%E1%B5%9D)](https://git.io/typing-svg)
 
 ## Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Booodaness&theme=github_dark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Booodaness&hide=prs,issues&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Booodaness&theme=github_dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Booodaness&layout=compact&theme=github_dark&title_color=045dc0&text_color=8a959e&border_color=272a30)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Booodaness&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=latex,md,py,ruby,html,css,bootstrap,mysql)](https://skillicons.dev)
