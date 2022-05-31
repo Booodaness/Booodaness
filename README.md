@@ -5,7 +5,7 @@
 ## Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Booodaness&hide=prs,issues&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Booodaness&layout=compact&hide=javascript,json,ruby&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Booodaness&layout=compact&hide=jupyter%20notebook,javascript,json,css,ruby&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills
 [![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)](https://www.latex-project.org/)
