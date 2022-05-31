@@ -43,3 +43,5 @@
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/Siddhartha-Bhattacharjee-45)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Booodaness)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/u2b92kj889yqgo3orpkykx13n?si=b69d7d8004d14502)
+
+<!--Courtesy: https://github.com/rzashakeri/beautify-github-profile-->
