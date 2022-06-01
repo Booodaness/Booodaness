@@ -1,6 +1,15 @@
 ![Header](./github-header-image.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mali&duration=2500&color=F7F7F7&vCenter=true&multiline=true&height=170&lines=%E2%88%82%E1%B5%AA%E2%88%82%E1%B5%A1%F0%9D%9C%93+%2B+m%C2%B2%F0%9D%9C%93+%3D+0;Let+%E2%88%82%E1%B5%AA%E2%88%82%E1%B5%A1+%3D+(%CE%B3%E1%B5%A1%E2%88%82%E1%B5%AA)%C2%B2+;%E2%87%92+%CE%B3%E1%B5%A1%CE%B3%E1%B5%9D+%2B+%CE%B3%E1%B5%9D%CE%B3%E1%B5%A1+%3D+2%CE%B7%E1%B5%A1%E1%B5%9D;(%CE%B3%E1%B5%A1%E2%88%82%E1%B5%AA)%C2%B2%F0%9D%9C%93+%2B+m%C2%B2%F0%9D%9C%93+%3D+0;%E2%88%B5+%F0%9D%9C%93+%E2%88%88+spec(%E2%88%82%E1%B5%AA%E2%88%82%E1%B5%A1)%2C;i%CE%B3%E1%B5%A1%E2%88%82%E1%B5%AA%F0%9D%9C%93+-+m%F0%9D%9C%93+%3D+0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mali&duration=2500&color=F7F7F7&multiline=true&height=170&lines=%E2%88%82%E1%B5%AA%E2%88%82%E1%B5%A1%F0%9D%9C%93+%3D+-+m%C2%B2%F0%9D%9C%93;Let+%E2%88%82%E1%B5%AA%E2%88%82%E1%B5%A1+%3D+(%CE%B3%E1%B5%A1%E2%88%82%E1%B5%AA)%C2%B2;%E2%87%92+%CE%B3%E1%B5%A1%CE%B3%E1%B5%9D+%2B+%CE%B3%E1%B5%9D%CE%B3%E1%B5%A1+%3D+2%CE%B7%E1%B5%A1%E1%B5%9D;(%CE%B3%E1%B5%A1%E2%88%82%E1%B5%AA)%C2%B2%F0%9D%9C%93+%3D+-+m%C2%B2%F0%9D%9C%93;(i%CE%B3%E1%B5%A1%E2%88%82%E1%B5%AA)%C2%B2%F0%9D%9C%93+%3D+m%C2%B2%F0%9D%9C%93;i%CE%B3%E1%B5%A1%E2%88%82%E1%B5%AA%F0%9D%9C%93+%3D+m%F0%9D%9C%93)](https://git.io/typing-svg)
+
+<!--  
+∂ᵪ∂ᵡ𝜓 = - m²𝜓
+Let ∂ᵪ∂ᵡ = (γᵡ∂ᵪ)²
+⇒ γᵡγᵝ + γᵝγᵡ = 2ηᵡᵝ
+(γᵡ∂ᵪ)²𝜓 = - m²𝜓
+(iγᵡ∂ᵪ)²𝜓 = m²𝜓
+iγᵡ∂ᵪ𝜓 = m𝜓
+-->
 
 ## Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Booodaness&hide=prs,issues&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
