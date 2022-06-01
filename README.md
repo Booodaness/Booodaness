@@ -38,8 +38,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ## Social
-![](https://dcbadge.vercel.app/api/shield/763313873830674443)
-[![Discord](https://img.shields.io/badge/ΨΦ-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://booodaness.github.io/psi-phi/)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://booodaness.github.io/psi-phi/)
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/Siddhartha-Bhattacharjee-45)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Booodaness)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/u2b92kj889yqgo3orpkykx13n?si=b69d7d8004d14502)
