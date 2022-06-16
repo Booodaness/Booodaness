@@ -30,7 +30,7 @@ iγᵡ∂ᵪ𝜓 = m𝜓
 [![Liquid](https://img.shields.io/badge/liquid-8DB543?style=for-the-badge&logo=Shopify&logoColor=white)](https://shopify.github.io/liquid/)
 
 ### Frameworks
-<a href="https://www.manim.community"><img height="28" width="80" src="https://www.manim.community/banner.png" /></a>
+<a href="https://www.manim.community"><img height="28" src="https://www.manim.community/banner.png" /></a>
 [![SymPy](https://img.shields.io/badge/SymPy-3B5526?style=for-the-badge&logo=SymPy&logoColor=white)](https://www.sympy.org/en/index.html)
 [![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
