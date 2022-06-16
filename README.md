@@ -17,12 +17,15 @@ iγᵡ∂ᵪ𝜓 = m𝜓
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Booodaness&layout=compact&count_private=true&hide=jupyter%20notebook,javascript,json,css,ruby,yaml&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills
+
+### Languages
 [![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)](https://www.latex-project.org/)
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/getting-started/)
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![Liquid](https://img.shields.io/badge/liquid-8DB543?style=for-the-badge&logo=Shopify&logoColor=white)](https://shopify.github.io/liquid/)
 
+### Frameworks
 [![SymPy](https://img.shields.io/badge/SymPy-3B5526?style=for-the-badge&logo=SymPy&logoColor=white)](https://www.sympy.org/en/index.html)
 [![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
@@ -31,6 +34,7 @@ iγᵡ∂ᵪ𝜓 = m𝜓
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://pages.github.com/)
 [![RevealJS](https://img.shields.io/badge/reveal.js-F2E142?style=for-the-badge&logo=reveal.js&logoColor=000)](https://revealjs.com/)
 
+### IDEs
 [![Atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)](https://atom.io/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 [![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
