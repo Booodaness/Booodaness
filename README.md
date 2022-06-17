@@ -46,13 +46,6 @@ iγᵡ∂ᵪ𝜓 = m𝜓
 [![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
 [![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white)](https://obsidian.md/)
 
-## Learning
-
-<a href="https://www.manim.community"><img height="28" src="https://www.manim.community/banner.png" /></a>
-[![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)](https://julialang.org/)
-[![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/)
-[![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)](https://krita.org/en/)
-
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Linearity of Classical Gauge Fields](https://booodaness.github.io/tempus-spatium/linearity-classical-gauge-fields/)
