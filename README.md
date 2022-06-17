@@ -26,8 +26,6 @@ iγᵡ∂ᵪ𝜓 = m𝜓
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
 <a href="https://www.sagemath.org"><img height="28" src="https://www.sagemath.org/pix/logo_sagemath+icon_oldstyle.png" /></a>
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Liquid](https://img.shields.io/badge/liquid-8DB543?style=for-the-badge&logo=Shopify&logoColor=white)](https://shopify.github.io/liquid/)
 
 ### Frameworks
@@ -36,6 +34,7 @@ iγᵡ∂ᵪ𝜓 = m𝜓
 [![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)](https://jupyter.org/)
+[![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com/)
 [![Jekyll](https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white)](https://jekyllrb.com/)
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)](https://pages.github.com/)
 [![RevealJS](https://img.shields.io/badge/reveal.js-F2E142?style=for-the-badge&logo=reveal.js&logoColor=000)](https://revealjs.com/)
