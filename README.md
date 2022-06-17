@@ -12,6 +12,7 @@ iγᵡ∂ᵪ𝜓 = m𝜓
 -->
 
 ## Stats
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Booodaness&count_private=true&hide=prs,issues&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Booodaness&layout=compact&count_private=true&hide=jupyter%20notebook,javascript,json,css,ruby,yaml&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -19,6 +20,7 @@ iγᵡ∂ᵪ𝜓 = m𝜓
 ## Skills
 
 ### Languages
+
 [![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)](https://www.latex-project.org/)
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/getting-started/)
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
@@ -29,7 +31,7 @@ iγᵡ∂ᵪ𝜓 = m𝜓
 [![Liquid](https://img.shields.io/badge/liquid-8DB543?style=for-the-badge&logo=Shopify&logoColor=white)](https://shopify.github.io/liquid/)
 
 ### Frameworks
-<!-- <a href="https://www.manim.community"><img height="28" src="https://www.manim.community/banner.png" /></a> -->
+
 [![SymPy](https://img.shields.io/badge/SymPy-3B5526?style=for-the-badge&logo=SymPy&logoColor=white)](https://www.sympy.org/en/index.html)
 [![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
@@ -39,11 +41,18 @@ iγᵡ∂ᵪ𝜓 = m𝜓
 [![RevealJS](https://img.shields.io/badge/reveal.js-F2E142?style=for-the-badge&logo=reveal.js&logoColor=000)](https://revealjs.com/)
 
 ### IDEs
+
 [![Atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)](https://atom.io/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 [![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
-[![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/)
 [![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white)](https://obsidian.md/)
+
+## Learning
+
+<a href="https://www.manim.community"><img height="28" src="https://www.manim.community/banner.png" /></a>
+[![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)](https://julialang.org/)
+[![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/)
+[![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)](https://krita.org/en/)
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
