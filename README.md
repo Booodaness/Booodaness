@@ -21,6 +21,12 @@ iγᵡ∂ᵪ𝜓 = m𝜓
 
 - Self-learning the causal set approach to quantum gravity
 
+## Stats
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Booodaness&count_private=true&hide=prs,issues&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Booodaness&layout=compact&count_private=true&hide=jupyter%20notebook,javascript,json&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Skills
 
 ### Languages
@@ -50,12 +56,6 @@ iγᵡ∂ᵪ𝜓 = m𝜓
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 [![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
 [![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white)](https://obsidian.md/)
-
-## Stats
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Booodaness&count_private=true&hide=prs,issues&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Booodaness&layout=compact&count_private=true&hide=jupyter%20notebook,javascript,json&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Selected repos
 
