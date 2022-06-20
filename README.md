@@ -23,9 +23,7 @@ iγᵡ∂ᵪ𝜓 = m𝜓
 
 ## Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Booodaness&count_private=true&hide=prs,issues&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Booodaness&layout=compact&count_private=true&hide=jupyter%20notebook,javascript,json&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Booodaness&count_private=true&hide=prs,issues&theme=dark)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Booodaness&layout=compact&count_private=true&hide=jupyter%20notebook,javascript,json&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills
 
