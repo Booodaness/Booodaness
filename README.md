@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mali&duration=2500&color=F7F7F7&multiline=true&height=170&lines=%E2%88%82%E1%B5%AA%E2%88%82%E1%B5%A1%F0%9D%9C%93+%3D+-+m%C2%B2%F0%9D%9C%93;Let+%E2%88%82%E1%B5%AA%E2%88%82%E1%B5%A1+%3D+(%CE%B3%E1%B5%A1%E2%88%82%E1%B5%AA)%C2%B2;%E2%87%92+%CE%B3%E1%B5%A1%CE%B3%E1%B5%9D+%2B+%CE%B3%E1%B5%9D%CE%B3%E1%B5%A1+%3D+2%CE%B7%E1%B5%A1%E1%B5%9D;(%CE%B3%E1%B5%A1%E2%88%82%E1%B5%AA)%C2%B2%F0%9D%9C%93+%3D+-+m%C2%B2%F0%9D%9C%93;(i%CE%B3%E1%B5%A1%E2%88%82%E1%B5%AA)%C2%B2%F0%9D%9C%93+%3D+m%C2%B2%F0%9D%9C%93;i%CE%B3%E1%B5%A1%E2%88%82%E1%B5%AA%F0%9D%9C%93+%3D+m%F0%9D%9C%93)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mali&duration=2500&color=F7F7F7&multiline=true&height=170&lines=%E2%88%82%E1%B5%AA%E2%88%82%E1%B5%A1%F0%9D%9C%93+%3D+-+m%C2%B2%F0%9D%9C%93;Let+%E2%88%82%E1%B5%AA%E2%88%82%E1%B5%A1+%3D+(%CE%B3%E1%B5%A1%E2%88%82%E1%B5%AA)%C2%B2;%E2%87%92+%CE%B3%E1%B5%A1%CE%B3%E1%B5%9D+%2B+%CE%B3%E1%B5%9D%CE%B3%E1%B5%A1+%3D+2%CE%B7%E1%B5%A1%E1%B5%9D;(%CE%B3%E1%B5%A1%E2%88%82%E1%B5%AA)%C2%B2%F0%9D%9C%93+%3D+-+m%C2%B2%F0%9D%9C%93;(i%CE%B3%E1%B5%A1%E2%88%82%E1%B5%AA)%C2%B2%F0%9D%9C%93+%3D+m%C2%B2%F0%9D%9C%93;i%CE%B3%E1%B5%A1%E2%88%82%E1%B5%AA%F0%9D%9C%93+%3D+m%F0%9D%9C%93)](https://en.wikipedia.org/wiki/Dirac_equation)
 
 <!--  
 ∂ᵪ∂ᵡ𝜓 = - m²𝜓
@@ -20,12 +20,6 @@ iγᵡ∂ᵪ𝜓 = m𝜓
 - Working on open-source notes on mathematical physics in [Scientific-Notes](https://github.com/Booodaness/Scientific-Notes)
 
 - Self-learning the causal set approach to quantum gravity
-
-## Stats
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Booodaness&count_private=true&hide=prs,issues&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Booodaness&layout=compact&count_private=true&hide=jupyter%20notebook,javascript,json&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills
 
@@ -56,6 +50,18 @@ iγᵡ∂ᵪ𝜓 = m𝜓
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 [![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
 [![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white)](https://obsidian.md/)
+
+## Stats
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Booodaness&count_private=true&hide=prs,issues&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Booodaness&layout=compact&count_private=true&hide=jupyter%20notebook,javascript,json&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## Selected repos
+
+[![Scientific-Notes](https://github-readme-stats.vercel.app/api/pin/?username=Booodaness&repo=Scientific-Notes&show_owner=true&theme=dark)](https://github.com/Booodaness/Scientific-Notes)
+
+[![Tempus Spatium](https://github-readme-stats.vercel.app/api/pin/?username=Booodaness&repo=tempus-spatium&show_owner=true&theme=dark)](https://github.com/Booodaness/tempus-spatium)
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
