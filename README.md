@@ -11,6 +11,16 @@ Let ∂ᵪ∂ᵡ = (γᵡ∂ᵪ)²
 iγᵡ∂ᵪ𝜓 = m𝜓
 -->
 
+## About
+
+- Mathematical Physics student at the University of Waterloo (batch of '26)
+
+- Blogger at [Tempus Spatium](https://booodaness.github.io/tempus-spatium/)
+
+- Working on open-source notes on mathematical physics in [Scientific-Notes](https://github.com/Booodaness/Scientific-Notes)
+
+- Self-learning the causal set approach to quantum gravity
+
 ## Stats
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Booodaness&count_private=true&hide=prs,issues&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
