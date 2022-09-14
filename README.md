@@ -19,7 +19,7 @@ iγᵡ∂ᵪ𝜓 = m𝜓
 
 - Working on open-source notes on mathematical physics in [Scientific-Notes](https://github.com/Booodaness/Scientific-Notes)
 
-- Self-learning the causal set approach to quantum gravity
+- Self-studying emergent models for spacetime
 
 ## Stats
 
