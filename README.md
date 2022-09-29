@@ -13,7 +13,7 @@ iγᵡ∂ᵪ𝜓 = m𝜓
 
 ## About
 
-- Mathematical Physics student at the University of Waterloo (Batch of '26)
+- Mathematical Physics student at the University of Waterloo (1A Term)
 
 - Blogger at [Tempus Spatium](https://booodaness.github.io/tempus-spatium/)
 
