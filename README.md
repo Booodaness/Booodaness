@@ -62,6 +62,7 @@ iγᵡ∂ᵪ𝜓 = m𝜓
 [![Scientific-Notes](https://github-readme-stats.vercel.app/api/pin/?username=Booodaness&repo=Scientific-Notes&show_owner=true&theme=dark)](https://github.com/Booodaness/Scientific-Notes) [![Tempus Spatium](https://github-readme-stats.vercel.app/api/pin/?username=Booodaness&repo=tempus-spatium&show_owner=true&theme=dark)](https://github.com/Booodaness/tempus-spatium)
 
 ## Latest blog posts
+
 <!-- BLOG-POST-LIST:START -->
 - [Scalar Field Lagrangian From Symmetry Considerations: Part 2](https://booodaness.github.io/tempus-spatium/scalar-field-lagrangian-symmetry-considerations-part-2/)
 - [Symplectic Forms from Poisson Brackets](https://booodaness.github.io/tempus-spatium/symplectic-forms-poisson-brackets/)
@@ -70,7 +71,13 @@ iγᵡ∂ᵪ𝜓 = m𝜓
 - [Combining Valid Solutions Into New Ones in Classical Field Theory](https://booodaness.github.io/tempus-spatium/combining-valid-solutions-classical-field-theory/)
 <!-- BLOG-POST-LIST:END -->
 
+## Support my effort
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/booodaness)
+[![follow.it](https://img.shields.io/badge/follow.it-00b04e?style=for-the-badge&logo=subscribe&logoColor=white)](https://booodaness.github.io/tempus-spatium/subscribe/)
+
 ## Social
+
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://booodaness.github.io/psi-phi/)
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/Siddhartha-Bhattacharjee-45)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Booodaness)
