@@ -71,11 +71,6 @@ iγᵡ∂ᵪ𝜓 = m𝜓
 - [Gauge Invariance in Classical Field Theory](https://booodaness.github.io/tempus-spatium/gauge-invariance-classical-field-theory/)
 <!-- BLOG-POST-LIST:END -->
 
-## Support my effort
-
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/booodaness)
-[![follow.it](https://img.shields.io/badge/follow.it-00b04e?style=for-the-badge&logo=subscribe&logoColor=white)](https://booodaness.github.io/tempus-spatium/subscribe/)
-
 ## Social
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://booodaness.github.io/psi-phi/)
