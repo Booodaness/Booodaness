@@ -64,11 +64,11 @@ iγᵡ∂ᵪ𝜓 = m𝜓
 ## Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Scalar Field Lagrangian From Symmetry Considerations: Part 2](https://booodaness.github.io/tempus-spatium/scalar-field-lagrangian-symmetry-considerations-part-2/)
+- [Deriving the Lagrangian Density for Newtonian Gravitation](https://booodaness.github.io/tempus-spatium/deriving-lagrangian-newtonian-gravitation/)
+- [Scalar Field Lagrangian From Symmetry Considerations: Part 2 &lpar;Gauge Invariance&rpar;](https://booodaness.github.io/tempus-spatium/scalar-field-lagrangian-symmetry-considerations-part-2/)
 - [Symplectic Forms from Poisson Brackets](https://booodaness.github.io/tempus-spatium/symplectic-forms-poisson-brackets/)
 - [Linearity of Classical Gauge Fields](https://booodaness.github.io/tempus-spatium/linearity-classical-gauge-fields/)
 - [Gauge Invariance in Classical Field Theory](https://booodaness.github.io/tempus-spatium/gauge-invariance-classical-field-theory/)
-- [Combining Valid Solutions Into New Ones in Classical Field Theory](https://booodaness.github.io/tempus-spatium/combining-solutions-classical-field-theory/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Social
