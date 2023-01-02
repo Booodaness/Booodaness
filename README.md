@@ -71,8 +71,8 @@ iγᵡ∂ᵪ𝜓 = m𝜓
 - [Linearity of Classical Gauge Fields](https://booodaness.github.io/tempus-spatium/linearity-classical-gauge-fields/)
 <!-- BLOG-POST-LIST:END -->
 
-## Social
-
+## Other websites
+[![Orcid](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-9510-2066)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://booodaness.github.io/psi-phi/)
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://www.quora.com/profile/Siddhartha-Bhattacharjee-45)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Booodaness)
