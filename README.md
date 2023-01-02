@@ -64,11 +64,11 @@ iγᵡ∂ᵪ𝜓 = m𝜓
 ## Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [A Brief Geometric Analysis of the Harmonic Oscillators: Part 2 &lpar;Tensor Algebra&rpar;](https://booodaness.github.io/tempus-spatium/geometric-analysis-harmonic-oscillators-part-2/)
+- [Homogeneity From Additivity for Linear Operators on a Real Vector Space](https://booodaness.github.io/tempus-spatium/homogeneity-from-additivity-linear-operators-real-vector-space/)
+- [A Brief Geometric Analysis of Harmonic Oscillators: Part 2 &lpar;Tensor Algebra&rpar;](https://booodaness.github.io/tempus-spatium/geometric-analysis-harmonic-oscillators-part-2/)
 - [Deriving the Lagrangian Density for Newtonian Gravitation](https://booodaness.github.io/tempus-spatium/deriving-lagrangian-newtonian-gravitation/)
 - [Scalar Field Lagrangian From Symmetry Considerations: Part 2 &lpar;Gauge Invariance&rpar;](https://booodaness.github.io/tempus-spatium/scalar-field-lagrangian-symmetry-considerations-part-2/)
 - [Symplectic Forms from Poisson Brackets](https://booodaness.github.io/tempus-spatium/symplectic-forms-poisson-brackets/)
-- [Linearity of Classical Gauge Fields](https://booodaness.github.io/tempus-spatium/linearity-classical-gauge-fields/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Other websites
