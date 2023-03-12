@@ -60,7 +60,9 @@ iγᵡ∂ᵪ𝜓 = m𝜓
 
 ## Featured repos
 
-[![Tempus Spatium](https://github-readme-stats.vercel.app/api/pin/?username=Booodaness&repo=tempus-spatium&show_owner=true&theme=dark)](https://github.com/Booodaness/tempus-spatium) [![Tempus Spatium](https://github-readme-stats.vercel.app/api/pin/?username=Booodaness&repo=scientific-documents&show_owner=true&theme=dark)](https://github.com/Booodaness/tempus-spatium) [![Scientific-Notes](https://github-readme-stats.vercel.app/api/pin/?username=Booodaness&repo=Scientific-Notes&show_owner=true&theme=dark)](https://github.com/Booodaness/Scientific-Notes) 
+[![Tempus Spatium](https://github-readme-stats.vercel.app/api/pin/?username=Booodaness&repo=tempus-spatium&show_owner=true&theme=dark)](https://github.com/Booodaness/tempus-spatium) 
+[![Tempus Spatium](https://github-readme-stats.vercel.app/api/pin/?username=Booodaness&repo=scientific-documents&show_owner=true&theme=dark)](https://github.com/Booodaness/tempus-spatium) 
+[![Scientific-Notes](https://github-readme-stats.vercel.app/api/pin/?username=Booodaness&repo=Scientific-Notes&show_owner=true&theme=dark)](https://github.com/Booodaness/Scientific-Notes) 
 
 ## Latest blog posts
 
