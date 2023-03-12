@@ -13,13 +13,13 @@ iγᵡ∂ᵪ𝜓 = m𝜓
 
 ## About
 
-- Mathematical Physics student at the University of Waterloo (1B Term)
+- B.Sc. (Hons) Mathematical Physics student at the University of Waterloo (1B term).
 
 - Blogger at [Tempus Spatium](https://booodaness.github.io/tempus-spatium/)
 
-- Working on open-source notes on mathematical physics in [Scientific-Notes](https://github.com/Booodaness/Scientific-Notes)
+- Working on [open-source notes](https://github.com/Booodaness/scientific-documents/tree/master/Schuller_Lectures_Geometrical_Anatomy_Theoretical_Physics_Notes) on Dr. Frederic Schuller's [Lectures on the Geometrical Anatomy of Theoretical Physics](https://youtube.com/playlist?list=PLPH7f_7ZlzxTi6kS4vCmv4ZKm9u8g5yic).
 
-- Self-studying emergent models for spacetime
+- Self-studying topology.
 
 ## Stats
 
@@ -60,7 +60,7 @@ iγᵡ∂ᵪ𝜓 = m𝜓
 
 ## Featured repos
 
-[![Scientific-Notes](https://github-readme-stats.vercel.app/api/pin/?username=Booodaness&repo=Scientific-Notes&show_owner=true&theme=dark)](https://github.com/Booodaness/Scientific-Notes) [![Tempus Spatium](https://github-readme-stats.vercel.app/api/pin/?username=Booodaness&repo=tempus-spatium&show_owner=true&theme=dark)](https://github.com/Booodaness/tempus-spatium)
+[![Tempus Spatium](https://github-readme-stats.vercel.app/api/pin/?username=Booodaness&repo=tempus-spatium&show_owner=true&theme=dark)](https://github.com/Booodaness/tempus-spatium) [![Tempus Spatium](https://github-readme-stats.vercel.app/api/pin/?username=Booodaness&repo=scientific-documents&show_owner=true&theme=dark)](https://github.com/Booodaness/tempus-spatium) [![Scientific-Notes](https://github-readme-stats.vercel.app/api/pin/?username=Booodaness&repo=Scientific-Notes&show_owner=true&theme=dark)](https://github.com/Booodaness/Scientific-Notes) 
 
 ## Latest blog posts
 
