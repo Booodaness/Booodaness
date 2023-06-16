@@ -13,7 +13,7 @@ iγᵡ∂ᵪ𝜓 = m𝜓
 
 ## About
 
-- B.Sc. (Hons) Mathematical Physics student at the University of Waterloo (1B term).
+- B.Sc. (Hons) Mathematical Physics student at the University of Waterloo (2A term).
 
 - Blogger at [Tempus Spatium](https://booodaness.github.io/tempus-spatium/)
 
