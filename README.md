@@ -15,17 +15,11 @@ iγᵡ∂ᵪ𝜓 = m𝜓
 
 - B.Sc. (Hons) Mathematical Physics student at the University of Waterloo (2A term).
 
-- Blogger at [Tempus Spatium](https://booodaness.github.io/tempus-spatium/)
+- Blogger at [Tempus Spatium](https://booodaness.github.io/tempus-spatium/).
 
 - Working on [open-source notes](https://github.com/Booodaness/scientific-documents/tree/master/Conceptual_Tour_Schuller_Geometrical_Anatomy_Theoretical_Physics) for Dr. Frederic Schuller's [Lectures on the Geometrical Anatomy of Theoretical Physics](https://youtube.com/playlist?list=PLPH7f_7ZlzxTi6kS4vCmv4ZKm9u8g5yic).
 
 - Self-studying differential geometry and gauge theories.
-
-## Stats
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Booodaness&count_private=true&hide=prs,issues&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Booodaness&layout=compact&count_private=true&hide=jupyter%20notebook,javascript,json&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills
 
