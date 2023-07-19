@@ -63,11 +63,11 @@ iγᵡ∂ᵪ𝜓 = m𝜓
 ## Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Real Reason Nothing Travels Faster Than Light: Part 2 &lpar;Dynamical Interpretation&rpar;](https://booodaness.github.io/tempus-spatium/real-reason-nothing-travels-faster-than-light-part-2/)
 - [Reconstructing Relativistic Kinetic Energy](https://booodaness.github.io/tempus-spatium/reconstructing-relativistic-kinetic-energy/)
 - [Bundles in Classical Gauge Field Theory &lpar;Slides, In Progress&rpar;](https://booodaness.github.io/tempus-spatium/bundles-classical-gauge-field-theory/)
 - [Applying the Klein-Gordon Theory to Gravitation &lpar;Slides&rpar;](https://booodaness.github.io/tempus-spatium/applying-klein-gordon-theory-gravitation/)
 - [A Brief Geometric Analysis of Harmonic Oscillators: Part 3 &lpar;Matrix Exponentials&rpar;](https://booodaness.github.io/tempus-spatium/geometric-analysis-harmonic-oscillators-part-3/)
-- [Homogeneity From Additivity for Linear Operators on a Real Vector Space](https://booodaness.github.io/tempus-spatium/homogeneity-from-additivity-linear-operators-real-vector-space/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Other websites
