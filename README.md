@@ -71,8 +71,8 @@ iγᵡ∂ᵪ𝜓 = m𝜓
 <!-- BLOG-POST-LIST:END -->
 
 ## Other websites
+[![Zotsite](https://img.shields.io/badge/zotsite-CC2936?style=for-the-badge&logo=zotero&logoColor=white)](https://github.com/Booodaness/zotero-references)
 [![Mastodon](https://img.shields.io/badge/Mathstodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white)](https://mathstodon.xyz/@Booodaness)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Booodaness)
 [![Orcid](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-9510-2066)
-[![Zotsite](https://img.shields.io/badge/zotsite-CC2936?style=for-the-badge&logo=zotero&logoColor=white)](https://github.com/Booodaness/zotero-references)
 [![Zotero](https://img.shields.io/badge/zotero-CC2936?style=for-the-badge&logo=zotero&logoColor=white)](https://www.zotero.org/booodaness)
