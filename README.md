@@ -17,8 +17,6 @@ iγᵡ∂ᵪ𝜓 = m𝜓
 
 - Blogger at [Tempus Spatium](https://booodaness.github.io/tempus-spatium/).
 
-- Working on [open-source notes](https://github.com/Booodaness/scientific-documents/tree/master/Conceptual_Tour_Schuller_Geometrical_Anatomy_Theoretical_Physics) for Dr. Frederic Schuller's [Lectures on the Geometrical Anatomy of Theoretical Physics](https://youtube.com/playlist?list=PLPH7f_7ZlzxTi6kS4vCmv4ZKm9u8g5yic).
-
 - Self-studying differential geometry and gauge theories.
 
 ## Skills
