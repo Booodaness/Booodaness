@@ -56,7 +56,9 @@ iγᵡ∂ᵪ𝜓 = m𝜓
 
 [![Tempus Spatium](https://github-readme-stats.vercel.app/api/pin/?username=Booodaness&repo=tempus-spatium&show_owner=true&theme=dark)](https://github.com/Booodaness/tempus-spatium) 
 
-[![Tempus Spatium](https://github-readme-stats.vercel.app/api/pin/?username=Booodaness&repo=scientific-documents&show_owner=true&theme=dark)](https://github.com/Booodaness/scientific-documents) 
+[![Scientific Documents](https://github-readme-stats.vercel.app/api/pin/?username=Booodaness&repo=scientific-documents&show_owner=true&theme=dark)](https://github.com/Booodaness/scientific-documents)
+
+[![3BP](https://github-readme-stats.vercel.app/api/pin/?username=Booodaness&repo=3BP&show_owner=true&theme=dark)](https://github.com/Booodaness/3BP)
 
 [![Scientific-Notes](https://github-readme-stats.vercel.app/api/pin/?username=Booodaness&repo=Scientific-Notes&show_owner=true&theme=dark)](https://github.com/Booodaness/Scientific-Notes) 
 
