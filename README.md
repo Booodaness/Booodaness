@@ -15,9 +15,11 @@ iγᵡ∂ᵪ𝜓 = m𝜓
 
 - B.Sc. (Hons) Mathematical Physics student at the University of Waterloo (2A term).
 
+- Find my CV [here](https://www.overleaf.com/read/trbwxbqkkmdp#536ac7).
+
 - Blogger at [Tempus Spatium](https://booodaness.github.io/tempus-spatium/).
 
-- Self-studying differential geometry and gauge theories.
+- Self-studying algebraic topology and gauge theories.
 
 ## Skills
 
