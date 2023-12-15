@@ -15,7 +15,7 @@ iγᵡ∂ᵪ𝜓 = m𝜓
 
 - B.Sc. (Hons) Mathematical Physics student at the University of Waterloo (2A term).
 
-- Find my CV [here](https://www.overleaf.com/read/trbwxbqkkmdp#536ac7).
+- Find my CV [here](https://booodaness.github.io/tempus-spatium/assets/pdf/cv.pdf).
 
 - Blogger at [Tempus Spatium](https://booodaness.github.io/tempus-spatium/).
 
@@ -74,7 +74,6 @@ iγᵡ∂ᵪ𝜓 = m𝜓
 
 ## Other websites
 [![Zotsite](https://img.shields.io/badge/zotsite-CC2936?style=for-the-badge&logo=zotero&logoColor=white)](https://booodaness.github.io/zotsite/)
-[![Mastodon](https://img.shields.io/badge/Mathstodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white)](https://mathstodon.xyz/@Booodaness)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Booodaness)
 [![Orcid](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-9510-2066)
 [![Zotero](https://img.shields.io/badge/zotero-CC2936?style=for-the-badge&logo=zotero&logoColor=white)](https://www.zotero.org/booodaness)
+[![Mastodon](https://img.shields.io/badge/Mathstodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white)](https://mathstodon.xyz/@Booodaness)
