@@ -52,17 +52,7 @@ iγᵡ∂ᵪ𝜓 = m𝜓
 [![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
 [![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white)](https://obsidian.md/)
 
-## Featured repos
-
-[![Tempus Spatium](https://github-readme-stats.vercel.app/api/pin/?username=Booodaness&repo=tempus-spatium&show_owner=true&theme=dark)](https://github.com/Booodaness/tempus-spatium) 
-
-[![Scientific Documents](https://github-readme-stats.vercel.app/api/pin/?username=Booodaness&repo=scientific-documents&show_owner=true&theme=dark)](https://github.com/Booodaness/scientific-documents)
-
-[![3BP](https://github-readme-stats.vercel.app/api/pin/?username=Booodaness&repo=3BP&show_owner=true&theme=dark)](https://github.com/Booodaness/3BP)
-
-[![Scientific-Notes](https://github-readme-stats.vercel.app/api/pin/?username=Booodaness&repo=Scientific-Notes&show_owner=true&theme=dark)](https://github.com/Booodaness/Scientific-Notes) 
-
-## Latest blog posts
+## Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
 - [A Closer Look at Quantum Measurements &lpar;Slides&rpar;](https://booodaness.github.io/tempus-spatium/closer-look-quantum-measurements/)
@@ -72,7 +62,7 @@ iγᵡ∂ᵪ𝜓 = m𝜓
 - [Applying the Klein-Gordon Theory to Gravitation &lpar;Slides&rpar;](https://booodaness.github.io/tempus-spatium/applying-klein-gordon-theory-gravitation/)
 <!-- BLOG-POST-LIST:END -->
 
-## Other websites
+## Websites & Social Media
 [![Zotsite](https://img.shields.io/badge/zotsite-CC2936?style=for-the-badge&logo=zotero&logoColor=white)](https://booodaness.github.io/zotsite/)
 [![Orcid](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-9510-2066)
 [![Zotero](https://img.shields.io/badge/zotero-CC2936?style=for-the-badge&logo=zotero&logoColor=white)](https://www.zotero.org/booodaness)
