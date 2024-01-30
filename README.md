@@ -19,7 +19,7 @@ iγᵡ∂ᵪ𝜓 = m𝜓
 
 - Blogger at [Tempus Spatium](https://booodaness.github.io/tempus-spatium/).
 
-- Currently working on [algebraic topology for non-holonomic mechanics](https://github.com/Booodaness/loop-classical-mechanics) and gauge theory.
+- Currently working on algebraic topology for non-holonomic mechanics and gauge theory.
 
 ## Skills
 
