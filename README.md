@@ -52,7 +52,7 @@ iγᵡ∂ᵪ𝜓 = m𝜓
 
 <!-- BLOG-POST-LIST:START -->
 - [The Question of &#39;Transitory Worlds&#39; in Plato&#39;s Metaphysics: Part 1](https://booodaness.github.io/tempus-spatium/transitory-worlds-plato-metaphysics/)
-- [A Closer Look at Quantum Measurements: Part 2.1 &lpar;Stern-Gerlach Experiments&rpar;](https://booodaness.github.io/tempus-spatium/closer-look-quantum-measurements-part-2.1/)
+- [A Closer Look at Quantum Measurements: Part 2.1 &lpar;Classical Stern-Gerlach Experiments&rpar;](https://booodaness.github.io/tempus-spatium/closer-look-quantum-measurements-part-2.1/)
 - [Analysis of the Three-body Problem &lpar;Report&rpar;](https://booodaness.github.io/tempus-spatium/analysis-three-body-problem/)
 - [A Closer Look at Quantum Measurements &lpar;Slides&rpar;](https://booodaness.github.io/tempus-spatium/closer-look-quantum-measurements/)
 - [The Real Reason Nothing Travels Faster Than Light: Part 2 &lpar;Dynamical Interpretation&rpar;](https://booodaness.github.io/tempus-spatium/real-reason-nothing-travels-faster-than-light-part-2/)
