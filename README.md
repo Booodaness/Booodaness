@@ -51,11 +51,11 @@ iγᵡ∂ᵪ𝜓 = m𝜓
 ## Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [A Functional Treatment of the Direct Product of Groups](https://booodaness.github.io/tempus-spatium/functional-treatment-direct-products-groups/)
 - [The Question of &#39;Transitory Worlds&#39; in Plato&#39;s Metaphysics: Part 1](https://booodaness.github.io/tempus-spatium/transitory-worlds-plato-metaphysics/)
 - [A Closer Look at Quantum Measurements: Part 2.1 &lpar;Classical Stern-Gerlach Experiments&rpar;](https://booodaness.github.io/tempus-spatium/closer-look-quantum-measurements-part-2.1/)
 - [Analysis of the Three-body Problem &lpar;Report&rpar;](https://booodaness.github.io/tempus-spatium/analysis-three-body-problem/)
 - [A Closer Look at Quantum Measurements &lpar;Slides&rpar;](https://booodaness.github.io/tempus-spatium/closer-look-quantum-measurements/)
-- [The Real Reason Nothing Travels Faster Than Light: Part 2 &lpar;Dynamical Interpretation&rpar;](https://booodaness.github.io/tempus-spatium/real-reason-nothing-travels-faster-than-light-part-2/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Websites & Social Media
