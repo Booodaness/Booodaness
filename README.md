@@ -51,11 +51,11 @@ iγᵡ∂ᵪ𝜓 = m𝜓
 ## Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Qualia in Temporal Naturalism &lpar;Part 2: Some Philosophical Puzzles&rpar;](https://booodaness.github.io/tempus-spatium/qualia-temporal-naturalism-puzzles/)
 - [Qualia in Temporal Naturalism &lpar;Part 1: Towards Cosmoprotopsychism&rpar;](https://booodaness.github.io/tempus-spatium/qualia-temporal-naturalism/)
 - [A Functional Treatment of the Direct Product of Groups](https://booodaness.github.io/tempus-spatium/functional-treatment-direct-products-groups/)
 - [The Question of &#39;Transitory Worlds&#39; in Plato&#39;s Metaphysics: Part 1](https://booodaness.github.io/tempus-spatium/transitory-worlds-plato-metaphysics/)
 - [A Closer Look at Quantum Measurements: Part 2.1 &lpar;Classical Stern-Gerlach Experiments&rpar;](https://booodaness.github.io/tempus-spatium/closer-look-quantum-measurements-part-2.1/)
-- [Analysis of the Three-body Problem &lpar;Report&rpar;](https://booodaness.github.io/tempus-spatium/analysis-three-body-problem/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Websites & Social Media
