@@ -51,7 +51,7 @@ iγᵡ∂ᵪ𝜓 = m𝜓
 ## Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Critiquing Hilbert’s Argument Against Realism About Physical Infinities in ‘On the Infinite](https://booodaness.github.io/tempus-spatium/critiquing-hilbert-on-physical-infinite/)
+- [Critiquing Hilbert’s Argument Against Realism About Physical Infinities in ‘On the Infinite&#39;](https://booodaness.github.io/tempus-spatium/critiquing-hilbert-on-physical-infinite/)
 - [Qualia in Temporal Naturalism &lpar;Part 2: Some Philosophical Puzzles&rpar;](https://booodaness.github.io/tempus-spatium/qualia-temporal-naturalism-puzzles/)
 - [Qualia in Temporal Naturalism &lpar;Part 1: Towards Cosmoprotopsychism&rpar;](https://booodaness.github.io/tempus-spatium/qualia-temporal-naturalism/)
 - [A Functional Treatment of the Direct Product of Groups](https://booodaness.github.io/tempus-spatium/functional-treatment-direct-products-groups/)
