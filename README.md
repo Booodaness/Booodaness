@@ -1,4 +1,4 @@
-<img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/noise/api?height=600&width=1600&bannerText=Hi%21+I%27m+Sid%2C+a+natural+philosophy+student&color=%23407196" />
+<img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/noise/api?height=400&width=1400&bannerText=Hi%21+I%27m+Sid%2C+a+natural+philosophy+student&color=%23407196" />
 
 [![Dirac equation](https://readme-typing-svg.demolab.com?font=Noto+Sans+Math&pause=1000&color=F7F7F7&background=000000&center=true&vCenter=true&multiline=true&width=440&height=175&lines=%E2%88%82%E1%B5%AA%E2%88%82%E1%B5%A1%F0%9D%9C%93+%3D+-+m%C2%B2%F0%9D%9C%93+(Klein-Gordon);Let+%E2%88%82%E1%B5%AA%E2%88%82%E1%B5%A1+%3D+(%CE%B3%E1%B5%A1%E2%88%82%E1%B5%AA)%C2%B2;But+%CE%B3%E1%B5%A1%CE%B3%E1%B5%9D+%2B+%CE%B3%E1%B5%9D%CE%B3%E1%B5%A1+%3D+2%CE%B7%E1%B5%A1%E1%B5%9D+(Spacetime+algebra);%E2%87%92+(%CE%B3%E1%B5%A1%E2%88%82%E1%B5%AA)%C2%B2%F0%9D%9C%93+%3D+-+m%C2%B2%F0%9D%9C%93;(i%CE%B3%E1%B5%A1%E2%88%82%E1%B5%AA)%C2%B2%F0%9D%9C%93+%3D+m%C2%B2%F0%9D%9C%93;i%CE%B3%E1%B5%A1%E2%88%82%E1%B5%AA%F0%9D%9C%93+%3D+m%F0%9D%9C%93+(Dirac))](https://booodaness.github.io/tempus-spatium/tags/klein-gordon-theory/)
 
