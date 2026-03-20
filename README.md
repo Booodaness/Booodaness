@@ -13,13 +13,13 @@ iγᵡ∂ᵪ𝜓 = m𝜓
 
 ## About
 
-- B.Sc. (Hons) Mathematical Physics student at the University of Waterloo (2A term).
+- B.A. (Hons) Philosophy + Pure mathematics (minor) + Applied mathematics (minor, specialization in physics) student at the University of Waterloo (3A term).
 
 - My CV can be found [here](https://booodaness.github.io/tempus-spatium/assets/pdf/cv.pdf).
 
 - Blogger at [Tempus Spatium](https://booodaness.github.io/tempus-spatium/).
 
-- Currently working on algebraic topology for non-holonomic mechanics and gauge theory.
+- Currently working on the relationship between the semantics of multivalued and/or Meinongian logics, the problem of time and processual philosophy.
 
 ## Skills
 
