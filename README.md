@@ -17,7 +17,7 @@ iγᵡ∂ᵪ𝜓 = m𝜓
 
 - My CV can be found [here](https://booodaness.github.io/tempus-spatium/assets/pdf/cv.pdf).
 
-- Blogger at [Tempus Spatium](https://booodaness.github.io/tempus-spatium/).
+- Blogger at [Tempus Spatium](https://booodaness.github.io/tempus-spatium/) and [Lektopoiesis](https://lektopoiesis.substack.com/).
 
 - Currently working on the relationship between the semantics of multivalued and/or Meinongian logics, the problem of time and processual philosophy.
 
