@@ -61,7 +61,7 @@ iγᵡ∂ᵪ𝜓 = m𝜓
 ## Websites & Social Media
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sid-bhattacharjee/)
 [![Orcid](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-9510-2066)
-[![Zotsite](https://img.shields.io/badge/zotsite-CC2936?style=for-the-badge&logo=zotero&logoColor=white)](https://booodaness.github.io/zotsite/)
 [![Zotero](https://img.shields.io/badge/zotero-CC2936?style=for-the-badge&logo=zotero&logoColor=white)](https://www.zotero.org/booodaness)
+[![Zotsite](https://img.shields.io/badge/zotsite-CC2936?style=for-the-badge&logo=zotero&logoColor=white)](https://booodaness.github.io/zotsite/)
 [![Mastodon](https://img.shields.io/badge/Mathstodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white)](https://mathstodon.xyz/@Booodaness)
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge)](https://bsky.app/profile/sid31415.bsky.social)
