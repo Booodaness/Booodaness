@@ -59,6 +59,8 @@ iγᵡ∂ᵪ𝜓 = m𝜓
 <!-- BLOG-POST-LIST:END -->
 
 ## Websites & Social Media
+[![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white
+)](https://lektopoiesis.substack.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sid-bhattacharjee/)
 [![Orcid](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-9510-2066)
 [![Zotero](https://img.shields.io/badge/zotero-CC2936?style=for-the-badge&logo=zotero&logoColor=white)](https://www.zotero.org/booodaness)
